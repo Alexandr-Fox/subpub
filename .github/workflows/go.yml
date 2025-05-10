@@ -23,3 +23,6 @@ jobs:
       env:
         COVERALLS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: goveralls -coverprofile=covprofile -service=github
+  report:
+    name: Go report card
+    uses: creekorful/goreportcard-action@v1.0
