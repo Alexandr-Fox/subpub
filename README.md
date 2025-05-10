@@ -1,4 +1,4 @@
-# SubPub - Реализация шаблона Издатель-Подписчик на Go
+# SubPub - Реализация шаблона Publisher-Subscriber на Go
 
 ![Go](https://img.shields.io/badge/Go-1.21+-blue.svg)
 [![Лицензия](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
