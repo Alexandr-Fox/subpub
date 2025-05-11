@@ -2,7 +2,7 @@
 
 ![Go](https://img.shields.io/badge/Go-1.21+-blue.svg)
 [![Лицензия](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Alexandr-Fox/subpub)](https://goreportcard.com/report/github.com/Alexandr-Fox/subpub)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Alexandr-Fox/subpub1)](https://goreportcard.com/report/github.com/Alexandr-Fox/subpub1)
 [![Coverage Status](https://coveralls.io/repos/github/Alexandr-Fox/subpub/badge.svg)](https://coveralls.io/github/Alexandr-Fox/subpub)
 
 SubPub - это легковесная, потокобезопасная реализация шаблона Publisher-Subscriber на языке Go, предназначенная для эффективного распределения сообщений между компонентами системы.
